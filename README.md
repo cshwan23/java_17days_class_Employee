@@ -414,7 +414,7 @@ family.setBirth_year(1950);
 Employee employee = new Employee(); //employee 정보 땡겨온다.
  
 // 클래스명.set+메서드명();
-// 직업정보
+// 직업정보-
 employee.setEmp_no(1);
 employee.setEmp_name("이소정");
 employee.setEmp_jikup("사장");
